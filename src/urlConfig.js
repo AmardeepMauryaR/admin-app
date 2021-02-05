@@ -1,4 +1,5 @@
-const baseUrl = "https://flipcart-backend-app.herokuapp.com";
+//const baseUrl = "https://flipcart-backend-app.herokuapp.com";
+const baseUrl = "http://localhost:2000";
 
 export const api = `${baseUrl}/api`;
 
